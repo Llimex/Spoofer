@@ -44,3 +44,10 @@ Spoof Hostname: Renames the system's hostname using wmic.
 Spoof Machine GUID: Replaces the machine GUID in the registry.
 Clean Traces: Deletes temporary files and other traces from the system.
 Admin Privileges: Automatically requests administrator rights when needed.
+
+![image](https://github.com/user-attachments/assets/c98d2b20-77f3-454f-b89b-47909a921347)
+
+![image](https://github.com/user-attachments/assets/e6011da0-46e0-41a1-972f-7c0d72f78acc)
+
+![image](https://github.com/user-attachments/assets/fff94b79-24ce-4a92-843f-db067c7d3a8f)
+
